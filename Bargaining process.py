@@ -1,5 +1,6 @@
 import numpy as np
 
+
 G = [(2,2),(4,0),(0,4),(1,1)]
 P = []
 BargainingSteps = 500
